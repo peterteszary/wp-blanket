@@ -12,7 +12,7 @@ Consider these options:
 To install:
 1. Download the wp-blanktheme.zip file.
 2. In WordPress, go to **Appearance > Themes** and click "Add New", then "Upload Theme".
-3. Add the **wp-blanktheme.zip** file and click "Install Now." Activate the Theme.
+3. Add the **wp-blanket.zip** file and click "Install Now." Activate the Theme.
 4. Delete all other themes (to reduce any need for updates)
 5. Enjoy!
 
